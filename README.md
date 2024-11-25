@@ -15,10 +15,10 @@ body {
 
 ```css
 // bold
-@import url("https://cdn.jsdelivr.net/gh/juwoong/bookk-dynamic-subset@v1.1.0/bookk_myungjo_bold.css");
+@import url("https://cdn.jsdelivr.net/gh/juwoong/bookk-dynamic-subset@v1.2.0/bookk_myungjo_bold.css");
 
 // light
-@import url("https://cdn.jsdelivr.net/gh/juwoong/bookk-dynamic-subset@v1.1.0/bookk_myungjo_light.css");
+@import url("https://cdn.jsdelivr.net/gh/juwoong/bookk-dynamic-subset@v1.2.0/bookk_myungjo_light.css");
 ```
 
 ## Changelog
