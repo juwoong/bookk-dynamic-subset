@@ -20,3 +20,9 @@ body {
 // light
 @import url("https://cdn.jsdelivr.net/gh/juwoong/bookk-dynamic-subset@v1.1.0/bookk_myungjo_light.css");
 ```
+
+## Changelog
+
+- `v1.0.0` initial
+- `v1.1.0` add correct weight and style on bold
+- `v1.2.0` add english support
