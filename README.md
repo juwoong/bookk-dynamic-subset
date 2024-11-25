@@ -15,10 +15,10 @@ body {
 
 ```css
 // bold
-@import url("https://cdn.jsdelivr.net/gh/juwoong/bookk-dynamic-subset@v1.3.0/BookkMyungjo_Bold.css");
+@import url("https://cdn.jsdelivr.net/gh/juwoong/bookk-dynamic-subset@v1.3.1/BookkMyungjo_Bold.css");
 
 // light
-@import url("https://cdn.jsdelivr.net/gh/juwoong/bookk-dynamic-subset@v1.3.0/BookkMyungjo_Light.css");
+@import url("https://cdn.jsdelivr.net/gh/juwoong/bookk-dynamic-subset@v1.3.1/BookkMyungjo_Light.css");
 ```
 
 ## Changelog
@@ -27,3 +27,4 @@ body {
 - `v1.1.0` add correct weight and style on bold
 - `v1.2.0` add english support
 - `v1.3.0` make font as google-like subset.
+- `v1.3.1` solve minor conflict
